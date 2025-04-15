@@ -6,5 +6,5 @@ How to reach me: hironakae.dev@gmail.com
 
 Connect with me: https://www.linkedin.com/in/hironakae/
 
-Languages and Tools:
-react typescript python nextjs git docker 
+Web-stack:
+typescript react nextjs python git docker 
